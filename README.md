@@ -102,7 +102,9 @@ systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
 ```
 Open http://localhost/zabbix for accessing the zabbix management console
+>```
 > Credential Zabbix
 > ...
 > Username: Admin
 > Password: zabbix
+>```
