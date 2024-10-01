@@ -101,4 +101,4 @@ jalankan dan enable server dan agent zabbix
 systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
 ```
-Open http://localhost for accessing the zabbix management console
+Open http://localhost/zabbix for accessing the zabbix management console
